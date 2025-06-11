@@ -18,31 +18,30 @@ Contiene los documentos, informes y recursos utilizados a lo largo de las sesion
 
 ### Requisitos previos
 
-**-** Tener una cuenta en [Udemy](https://www.udemy.com/)
-**-** Tener instalado Power BI Desktop
-**-** Acceso a los materiales del curso
+- Tener una cuenta en [Udemy](https://www.udemy.com/)
+- Tener instalado Power BI Desktop
+- Acceso a los materiales del curso
 
 ---
 
 ### Autor
 
-Este repositorio fue desarrollado por Aleja1812 como parte del curso de formación continua en análisis de datos.
+Este repositorio fue desarrollado por **ALEJANDRA MUÑOZ** como parte del curso de formación continua en análisis de datos.
 
-GitHub: [@Aleja1812](
-https://github.com/Aleja1812)
+- GitHub: [@Aleja1812](https://github.com/Aleja1812)
 
 ---
 
 ### Próximas sesiones
 
-**-** SESIÓN 1 - Introducción.
-**-** SESIÓN 2 - Conectando y dándole forma a los datos con el editor de consultas (Power Query).
-**-** SESIÓN 3 - Creando un módelo de datos.
-**-** SESIÓN 4 - Calculando campos con DAX
-**-** SESIÓN 5 - Visualizando datos con Power BI.
-**-** SESIÓN 6 - Inteligencia artificial con Power BI.
-**-** SESIÓN 7 - Herramientas de optimización.
-**-** SESIÓN 8 - Proyecto del curso: caso SUPER FRESCO.
+- SESIÓN 1 - Introducción.
+- SESIÓN 2 - Conectando y dándole forma a los datos con el editor de consultas (Power Query).
+- SESIÓN 3 - Creando un módelo de datos.
+- SESIÓN 4 - Calculando campos con DAX
+- SESIÓN 5 - Visualizando datos con Power BI.
+- SESIÓN 6 - Inteligencia artificial con Power BI.
+- SESIÓN 7 - Herramientas de optimización.
+- SESIÓN 8 - Proyecto del curso: caso SUPER FRESCO.
 
 ---
 
