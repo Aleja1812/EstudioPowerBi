@@ -2,7 +2,7 @@
 
 ---
 
-Esta carpeta contiene los materiales correspondientes a la **cuarta sesión de calculado campos con DAX** del curso de Udemy:
+Esta carpeta contiene los materiales correspondientes a la **cuarta sesión de calculando campos con DAX** del curso de Udemy:
 
 **"Analista de Datos y Business Intelligence con PowerBI: ETL, Power Query, Modelación, DAX, Visualización, PL-300, ChatGPT"**
 
