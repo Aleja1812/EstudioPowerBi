@@ -10,9 +10,9 @@ Esta carpeta contiene las **tareas** proporcionadas por el instructor, específi
 
 ## ¿Qué hay en cada carpeta?
 
-* 📁 **TAREA 1**:
+# * 📁 **TAREA 1**:
 
-# Tarea: Importación y Transformación Básica de Datos en Power BI
+### Tarea: Importación y Transformación Básica de Datos en Power BI
 
 Esta tarea en Power BI busca que los estudiantes **practiquen la importación y transformación básica de datos**.
 
@@ -29,9 +29,9 @@ Esta tarea en Power BI busca que los estudiantes **practiquen la importación y 
 
 **En resumen**, el objetivo principal es que los estudiantes **afiancen sus habilidades en la preparación de datos dentro de Power BI**, un paso crucial antes de cualquier análisis.
 
-* 📁 **TAREA 2**:
+# * 📁 **TAREA 2**:
 
-# Tarea: Extracción y Preparación de Datos Web en Power BI
+### Tarea: Extracción y Preparación de Datos Web en Power BI
 
 Esta tarea en Power BI se enfoca en **practicar la extracción y preparación de datos directamente desde una página web**.
 
@@ -47,9 +47,9 @@ Esta tarea en Power BI se enfoca en **practicar la extracción y preparación de
 
 **En resumen**, el objetivo es que los estudiantes **dominen el proceso de obtener y refinar datos directamente de la web** para su posterior análisis en Power BI, lo cual es una habilidad fundamental en la inteligencia de negocios.
 
-* 📁 **TAREA 3**:
+# * 📁 **TAREA 3**:
 
-# Tarea: Análisis de Datos de Clientes y Productos
+### Tarea: Análisis de Datos de Clientes y Productos
 
 Esta tarea de análisis de datos tiene como objetivo **extraer y comprender información clave de conjuntos de datos de clientes y productos**.
 

@@ -8,9 +8,9 @@ Esta carpeta contiene las **tareas** proporcionadas por el instructor, específi
 
 ## ¿Qué hay en cada carpeta?
 
-* 📁 **TAREA 1**:
+# * 📁 **TAREA 1**:
 
-# Tarea: Tasa de Devoluciones en Power BI (DAX)
+### Tarea: Tasa de Devoluciones en Power BI (DAX)
 
 Esta tarea te guiará en la creación de una medida de **Tasa de Devoluciones de Ciclo de Vida en Power BI** usando dos métodos DAX distintos: el operador de división (`/`) y la función `DIVIDE`.
 
@@ -36,9 +36,9 @@ El objetivo es aprender a calcular y manejar errores en medidas DAX:
 
 Esta tarea es fundamental para **crear medidas DAX robustas y evitar errores en tus análisis** de Power BI.
 
-* 📁 **TAREA 2**:
+# * 📁 **TAREA 2**:
 
-# Tarea: Segmentación de Clientes con DAX en Power BI
+### Tarea: Segmentación de Clientes con DAX en Power BI
 
 Esta tarea se enfoca en **segmentar la base de clientes de Power BI utilizando funciones DAX** para categorizarlos según su prioridad, nivel de ingresos y grado universitario.
 
@@ -62,9 +62,9 @@ El objetivo es aplicar DAX para crear nuevas columnas de segmentación en la tab
 
 Esta tarea es fundamental para **personalizar estrategias de marketing y servicio al cliente** al comprender mejor las características de la base de clientes.
 
-* 📁 **TAREA 3**:
+# * 📁 **TAREA 3**:
 
-# Tarea: Extracción de Segmentos de SKU en Power BI con DAX
+### Tarea: Extracción de Segmentos de SKU en Power BI con DAX
 
 Esta tarea se enfoca en **extraer la porción de texto a la derecha del primer guión de los SKUs** en Power BI, utilizando DAX para manejar la variabilidad en la longitud y posición del guión.
 
@@ -104,9 +104,9 @@ Considera funciones que te permitan:
 Esta tarea es fundamental para **afinar tus habilidades en la manipulación avanzada de cadenas de texto en DAX**, crucial para la preparación de datos.
 
 
-* 📁 **TAREA 4**:
+# * 📁 **TAREA 4**:
 
-# Tarea: Análisis de la Tasa de Devoluciones de Accesorios (DAX)
+### Tarea: Análisis de la Tasa de Devoluciones de Accesorios (DAX)
 
 Esta tarea se enfoca en **analizar la tasa de devoluciones para la categoría de accesorios en Estados Unidos** usando la función `CALCULATE` en Power BI.
 
@@ -131,9 +131,9 @@ El objetivo es calcular y analizar métricas específicas con DAX:
 
 Esta tarea es fundamental para **aplicar `CALCULATE` en DAX para análisis de contexto específicos** y generar *insights* accionables.
 
-* 📁 **TAREA 5**:
+# * 📁 **TAREA 5**:
 
-# Tarea: Análisis de Devoluciones por Categoría de Producto en Power BI
+### Tarea: Análisis de Devoluciones por Categoría de Producto en Power BI
 
 Este proyecto demuestra el uso de **DAX avanzado en Power BI** para analizar el comportamiento de las devoluciones, enfocándose en la **contribución porcentual de cada categoría de producto** al total global de devoluciones.
 
@@ -166,9 +166,9 @@ CALCULATE (
 
 ---
 
-* 📁 **TAREA 6**:
+# * 📁 **TAREA 6**:
 
-# Tarea: Análisis de Medidas y Matrices en Power BI
+### Tarea: Análisis de Medidas y Matrices en Power BI
 
 Esta tarea se enfoca en **crear medidas DAX clave y dos matrices en Power BI** para analizar el rendimiento empresarial, incluyendo el cálculo de metas y tendencias recientes.
 

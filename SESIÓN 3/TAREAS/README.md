@@ -8,9 +8,9 @@ Esta carpeta contiene las **tareas** proporcionadas por el instructor, específi
 
 ## ¿Qué hay en cada carpeta?
 
-* 📁 **TAREA 1**:
+# * 📁 **TAREA 1**:
 
-# Tarea: Modelado de Datos en Power BI (Caso "Ciclo Vida")
+### Tarea: Modelado de Datos en Power BI (Caso "Ciclo Vida")
 
 Esta tarea te guiará en la **creación y verificación de un modelo de datos robusto en Power BI** usando el caso "Ciclo Vida".
 
@@ -39,9 +39,9 @@ Esta tarea es clave para afianzar tus habilidades en la estructuración de datos
 
 En resumen, el objetivo principal es que el estudiante **domine el modelado de datos en Power BI construyendo y verificando un esquema combinado de Estrella y Copo de Nieve**, asegurando así la precisión de las relaciones de datos para un análisis robusto.
 
-* 📁 **TAREA 2**:
+# * 📁 **TAREA 2**:
 
-# Tarea: Resolver Anomalías en Power BI (IDTerritorio)
+### Tarea: Resolver Anomalías en Power BI (IDTerritorio)
 
 Esta tarea se enfoca en **diagnosticar y solucionar la ausencia de datos en una matriz de Power BI**, específicamente la falta de `IDTerritorio` y totales inconsistentes.
 
@@ -58,9 +58,9 @@ El objetivo es **garantizar la precisión de los datos en los informes de Power 
 
 En resumen, la tarea busca que **domines la corrección y prevención de inconsistencias en informes de Power BI** mediante la aplicación de buenas prácticas de modelado de datos y gestión de la visibilidad de los campos.
 
-* 📁 **TAREA 3**:
+# * 📁 **TAREA 3**:
 
-# Tarea: Creación y Aplicación de Jerarquías de Fechas en Power BI
+### Tarea: Creación y Aplicación de Jerarquías de Fechas en Power BI
 
 Esta tarea te guiará en la **creación de una jerarquía de fechas personalizada en Power BI** y su uso para analizar tendencias temporales en un visual de matriz.
 
