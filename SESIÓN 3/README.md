@@ -12,6 +12,3 @@ Esta carpeta contiene los materiales correspondientes a la **tercera sesión de 
 
 * **Enlace al curso completo en Udemy:**
     [https://www.udemy.com/course/power-bi-analisis-de-datos-e-inteligencia-de-negocios/](https://www.udemy.com/course/power-bi-analisis-de-datos-e-inteligencia-de-negocios/)
-
-* **Enlace directo a la sesión de introducción:**
-    [https://www.udemy.com/course/power-bi-analisis-de-datos-e-inteligencia-de-negocios/learn/lecture/42659542?start=45#overview](https://www.udemy.com/course/power-bi-analisis-de-datos-e-inteligencia-de-negocios/learn/lecture/42659542?start=45#overview)
