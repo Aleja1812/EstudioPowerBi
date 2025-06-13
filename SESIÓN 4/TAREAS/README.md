@@ -151,15 +151,17 @@ El objetivo es utilizar funciones DAX como `CALCULATE`, `ALL` y `DIVIDE` para:
 
 ## Pasos del Análisis (Ejemplo de Código DAX)
 
-### 1. Calcular el Total de Todas las Devoluciones
+## 1. Calcular el Total de Todas las Devoluciones
 
-Esta medida (`Todas las Devoluciones`) es el denominador para los cálculos porcentuales, ignorando cualquier filtro de categoría.
+Esta medida (`Todas las Devoluciones`) es crucial porque nos permite obtener el total de devoluciones **sin importar los filtros** que se apliquen en el informe (por ejemplo, si estamos viendo devoluciones por una categoría específica, esta medida seguirá mostrando el total global). Actuará como el denominador para calcular porcentajes más adelante.
 
-```dax
+**Código DAX:**
+
+**```dax
 Todas las Devoluciones =
 CALCULATE (
-    [Total Devoluciones],
-    ALL ( Devoluciones ) // Asegura que se sumen todas las devoluciones.
+    [Total Devoluciones], // Suma el total de devoluciones.
+    ALL ( Devoluciones )  // Elimina cualquier filtro de la tabla 'Devoluciones' para obtener el total general.
 )
 
 ---
