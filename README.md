@@ -12,7 +12,6 @@ Contiene los documentos, informes y recursos utilizados a lo largo de las sesion
 
 - 📁 **DOCUMENTOS**: Materiales de lectura, PDFs y guías de la sesión.
 - 📁 **INFORMES**: Informes generados en Power BI o ejemplos de reportes.
-- 📄 **README.md**: Este archivo con información general de la sesión.
 
 ---
 
