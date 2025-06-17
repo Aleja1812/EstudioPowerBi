@@ -36,7 +36,7 @@ En resumen, estas carpetas ayudan a mantener el repositorio **ordenado, claro y 
 
 ---
 
-Esta carpeta contiene los materiales correspondientes a la **cuarta sesión de visualizando datos con Powwr BI** del curso de Udemy:
+Esta carpeta contiene los materiales correspondientes a la **quinta sesión de visualizando datos con Power BI** del curso de Udemy:
 
 **"Analista de Datos y Business Intelligence con PowerBI: ETL, Power Query, Modelación, DAX, Visualización, PL-300, ChatGPT"**
 
