@@ -38,6 +38,8 @@ Esta estructura de repositorio sirve para **organizar y clasificar los archivos 
 
 * 📁 **INFORMES**: Esta carpeta está destinada a guardar los **resultados y entregables** del proyecto. Típicamente, aquí se almacenan los informes o paneles interactivos generados con herramientas como Power BI, o ejemplos de reportes ya finalizados. Su propósito es centralizar las salidas del trabajo realizado, facilitando la consulta de los resultados y mostrando el progreso o los hallazgos del proyecto.
 
+* 📁 **TAREAS**: Esta carpeta se utiliza para almacenar los **ejercicios prácticos y las actividades** que los estudiantes o participantes deben completar. Aquí se encontrarán los archivos de datos, las instrucciones detalladas de las tareas y cualquier otro material necesario para realizar los ejercicios. Su objetivo es proporcionar un lugar centralizado para acceder a las actividades prácticas del curso o proyecto.
+
 En resumen, estas carpetas ayudan a mantener el repositorio **ordenado, claro y fácil de navegar**, permitiendo a cualquier persona que acceda a él entender rápidamente dónde encontrar la información y los resultados clave del proyecto.
 
 ---
